@@ -1,0 +1,32 @@
+Package: popgen
+Type: Package
+Title: Population Structure Analysis
+Version: 0.1.0
+Author: Anastasiia Hryhorzhevska <anastasiia.hryhorzhevska@gmail.com>
+Description: TODO
+LazyData: TRUE
+Depends:
+  gdsfmt,
+  SNPRelate,
+  dplyr,
+  class,
+  caret,
+  e1071,
+  kernlab,
+  rpart,
+  rpart.plot,
+  rattle,
+  randomForest,
+  ROCR,
+  pROC,
+  mclust,
+  plyr,
+  tidyr,
+  fpc,
+  clusterCrit,
+  xtable,
+  reshape,
+  ggplot2,
+  shiny,
+  flexclust
+RoxygenNote: 6.0.1
